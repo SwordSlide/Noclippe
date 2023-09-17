@@ -1,0 +1,6 @@
+CrashTab:AddButton({
+	Name = "Check updates...",
+	Callback = function()
+      		print("This is the latest versoin")
+  	end    
+})
